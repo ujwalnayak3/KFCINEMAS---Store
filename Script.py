@@ -11,9 +11,9 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_caption}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-⚙️ sɪᴢᴇ : Join - https://t.me/proud_kannadiga
+⚙️ sɪᴢᴇ : Join - https://t.me/Kannada_Cineflix
 
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Kannada_Cineflix)</b>""" 
 
