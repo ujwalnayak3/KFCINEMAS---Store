@@ -11,11 +11,9 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 {file_name}
 
-⚙️ sɪᴢᴇ : Join - https://t.me/Kannada_Cineflix
-
-Jᴏɪɴ - https://t.me/Kannada_Cineflix</b>""" 
+⚙️Join - https://t.me/Kannada_Cineflix x</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
