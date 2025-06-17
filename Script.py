@@ -15,7 +15,7 @@ class script(object):
 
 ⚙️ sɪᴢᴇ : Join - https://t.me/Kannada_Cineflix
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Kannada_Cineflix)</b>""" 
+Jᴏɪɴ - https://t.me/Kannada_Cineflix</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
