@@ -13,7 +13,7 @@ class script(object):
     
     CAPTION = """<b>📂 {file_name}
 
-⚙️Join - https://t.me/Kannada_Cineflix x</b>""" 
+⚙️Join - https://t.me/Kannada_Cineflix </b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
